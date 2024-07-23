@@ -1,5 +1,3 @@
-// Javascript Code Challenge
-
 let char = "aahbnnncdeehhhh";
 
 function removeDuplicateChar(char) {
